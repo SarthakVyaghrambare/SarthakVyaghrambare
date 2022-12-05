@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Data science*
 
-- 👨‍💻 All of my projects are available at (https://github.com/SarthakVyaghrambare)
+- 👨‍💻 All of my projects are available at (https://github.com/SarthakVyaghrambare?tab=repositories)
 
 - 📫 How to reach me *svyaghrambare@gmail.com*
 
